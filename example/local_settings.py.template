@@ -1,5 +1,5 @@
-TWITTER_CONSUMER_KEY              = ''
-TWITTER_CONSUMER_SECRET           = ''
+TWITTER_CONSUMER_KEY              = 'DPO1nWGOm5sfq1q1xQkg1g'
+TWITTER_CONSUMER_SECRET           = 'bDoeeIy8HaqxmwZjlXkt7y4Ve5g3sfBdbgAOvwVIQ'
 FACEBOOK_APP_ID                   = ''
 FACEBOOK_API_SECRET               = ''
 LINKEDIN_CONSUMER_KEY             = ''
