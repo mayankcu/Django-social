@@ -13,7 +13,7 @@ ROOT_PATH = abspath(dirname(__file__))
 PROJECT_NAME = basename(ROOT_PATH)
 
 ADMINS = (
-    # ('Your Name', 'your_email@domain.com'),
+    ## ('Your Name', 'your_email@domain.com'),
 )
 MANAGERS = ADMINS
 
